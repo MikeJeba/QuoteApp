@@ -26,6 +26,3 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Demo:
-[Link to Demo Video or Screenshots]
-
